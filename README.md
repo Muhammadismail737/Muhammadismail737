@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Muhammadismail737
+- 🖥️ student of BS Data Science 
+- 👀 I’m interested in laerning all about data science 
+- 🌱 I’m currently learning R / Python / statistics
+- 💞️ I’m looking to collaborate on everything related to data science
+- 📫 How to reach me bsds.235302015@imsciences.edu.pk

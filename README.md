@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammadismail737
+- 👋 Hi, I’m @Muhammadismail
 - 🖥️ student of BS Data Science 
 - 👀 I’m interested in laerning all about data science 
 - 🌱 I’m currently learning R / Python / statistics
